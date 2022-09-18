@@ -1,2 +1,0 @@
-<h1><img src="https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest/top-crop/width/360/height/360?cb=20211212183124" width="35px"> SI105 Arquitectura de Computadoras <img src="https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest/top-crop/width/360/height/360?cb=20211212183124" width="35px"></h1>
-Repositorio con todas las resoluciones prácticas y archivos.asm de la cursada del segundo semestre del 2022
